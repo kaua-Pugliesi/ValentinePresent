@@ -1,4 +1,4 @@
-const audio = new Audio("Conquista.mp3");
+const audio = new Audio("midia/Conquista.mp3");
 audio.preload = "auto";
 
 function playSound() {
